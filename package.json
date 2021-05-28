@@ -1,0 +1,19 @@
+{
+  "name": "ankle",
+  "version": "0.0.1",
+  "description": "A web framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunrick/ankle-js.git"
+  },
+  "author": "Rickard Sunden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunrick/ankle-js/issues"
+  },
+  "homepage": "https://github.com/sunrick/ankle-js#readme"
+}
